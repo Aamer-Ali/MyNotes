@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">MyNotes</string>
+    <string name="text_submit">Submit</string>
+    <string name="text_description">Description</string>
+    <string name="text_title">Title</string>
+    <string name="text_edit_note_page_title">Edit Note</string>
+    <string name="text_register_page_title">Create New Account</string>
+    <string name="text_register_page_subtitle">Please provide all required information</string>
+    <string name="text_username">Username</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Password</string>
+    <string name="text_sign_up">Signup</string>
+    <string name="text_already_have_account">Already have an account</string>
+    <string name="text_login_page_title">Welcome</string>
+    <string name="text_login_page_subtitle">Login</string>
+    <string name="text_login">Login</string>
+    <string name="text_do_not_have_account_signup">Don\'t have an account? <font color="#2196F3">Register Now</font></string>
 </resources>
