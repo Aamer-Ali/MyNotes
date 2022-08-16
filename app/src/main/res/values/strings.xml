@@ -15,4 +15,6 @@
     <string name="text_login_page_subtitle">Login</string>
     <string name="text_login">Login</string>
     <string name="text_do_not_have_account_signup">Don\'t have an account? <font color="#2196F3">Register Now</font></string>
+    <string name="notes_list_page_title">Notes</string>
+    <string name="add_note_fab_content_description">Add Note</string>
 </resources>
