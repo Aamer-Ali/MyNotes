@@ -33,5 +33,10 @@
         android:id="@+id/noteFragment"
         android:name="com.ali.aamer.mynotes.features.feature_notes.display.fragments.AddEditNoteFragment"
         android:label="fragment_note"
-        tools:layout="@layout/fragment_add_edit_note" />
+        tools:layout="@layout/fragment_add_edit_note" >
+        <argument
+            android:name="note"
+            app:argType="com.ali.aamer.notesapp.models.notes.NoteResponseModel"
+            app:nullable="true" />
+    </fragment>
 </navigation>
